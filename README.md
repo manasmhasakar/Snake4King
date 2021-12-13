@@ -1,5 +1,5 @@
 ### Snake 4 king
 
-A snake game in Java. Using Threads and Java Swing to display the game.
+Creating the classic snake game in Java. Threads and Java Swing has been used to display the game.
 
 
